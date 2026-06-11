@@ -1,0 +1,3 @@
+[submodule "rank00/libft"]
+	path = rank00/libft
+	url = git@github.com:thetintin66/libft.git
