@@ -28,3 +28,6 @@
 [submodule "rank04/NetPractice"]
 	path = rank04/NetPractice
 	url = https://github.com/thetintin66/NetPractice.git
+[submodule "rank04/RAG_against_the_machine"]
+	path = rank04/RAG_against_the_machine
+	url = https://github.com/thetintin66/RAG_against_the_machine.git
