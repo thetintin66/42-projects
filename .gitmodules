@@ -13,3 +13,6 @@
 [submodule "rank02/A-Maze-ing"]
 	path = rank02/A-Maze-ing
 	url = https://github.com/thetintin66/A-Maze-ing.git
+[submodule "rank02/Piscine_Python"]
+	path = rank02/Piscine_Python
+	url = https://github.com/thetintin66/Piscine_Python.git
