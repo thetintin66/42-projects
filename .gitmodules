@@ -10,3 +10,6 @@
 [submodule "rank01/Push_swap"]
 	path = rank01/Push_swap
 	url = git@github.com:thetintin66/Push_swap.git
+[submodule "rank02/A-Maze-ing"]
+	path = rank02/A-Maze-ing
+	url = https://github.com/thetintin66/A-Maze-ing/tree/main
