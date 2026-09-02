@@ -25,3 +25,6 @@
 [submodule "rank03/Fly-in"]
 	path = rank03/Fly-in
 	url = https://github.com/thetintin66/Fly-in.git
+[submodule "rank04/NetPractice"]
+	path = rank04/NetPractice
+	url = https://github.com/thetintin66/NetPractice.git
