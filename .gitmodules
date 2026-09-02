@@ -22,3 +22,6 @@
 [submodule "rank03/Codexion"]
 	path = rank03/Codexion
 	url = https://github.com/thetintin66/Codexion.git
+[submodule "rank03/Fly-in"]
+	path = rank03/Fly-in
+	url = https://github.com/thetintin66/Fly-in.git
