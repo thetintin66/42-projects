@@ -16,3 +16,6 @@
 [submodule "rank02/Piscine_Python"]
 	path = rank02/Piscine_Python
 	url = https://github.com/thetintin66/Piscine_Python.git
+[submodule "rank03/Call_Me_Maybe"]
+	path = rank03/Call_Me_Maybe
+	url = https://github.com/thetintin66/Call_Me_Maybe.git
